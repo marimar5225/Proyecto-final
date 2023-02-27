@@ -1,0 +1,44 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    font-family: 'Lora', serif;
+    background-color:lightcoral;
+    width: 258px;
+    border: 1px solid light;
+    padding: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+fieldset{
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+legend{
+    font-family: 'Roboto Slab', serif;
+    font-size: 17px;
+    background-color: lightcoral;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 50x;
+    margin-bottom: 12px;
+    float: left;
+}
+
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+}
+
+/**
+Excelentemente explicado por el profesor
+*/
